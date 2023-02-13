@@ -1,0 +1,2 @@
+For the decision tree section:
+As expected, with no pruning the modeled decision tree performs with 100% accuracy [on the training set].
