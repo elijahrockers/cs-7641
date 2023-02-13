@@ -1,0 +1,12 @@
+/home/eli/anaconda3/envs/ml/lib/python3.10/site-packages/sklearn/base.py:409: UserWarning: X does not have valid feature names, but AdaBoostClassifier was fitted with feature names
+  warnings.warn(
+/home/eli/anaconda3/envs/ml/lib/python3.10/site-packages/sklearn/base.py:409: UserWarning: X does not have valid feature names, but AdaBoostClassifier was fitted with feature names
+  warnings.warn(
+/home/eli/anaconda3/envs/ml/lib/python3.10/site-packages/sklearn/base.py:409: UserWarning: X does not have valid feature names, but AdaBoostClassifier was fitted with feature names
+  warnings.warn(
+/home/eli/anaconda3/envs/ml/lib/python3.10/site-packages/sklearn/base.py:409: UserWarning: X does not have valid feature names, but AdaBoostClassifier was fitted with feature names
+  warnings.warn(
+/home/eli/anaconda3/envs/ml/lib/python3.10/site-packages/sklearn/base.py:409: UserWarning: X does not have valid feature names, but AdaBoostClassifier was fitted with feature names
+  warnings.warn(
+/home/eli/anaconda3/envs/ml/lib/python3.10/site-packages/sklearn/base.py:409: UserWarning: X does not have valid feature names, but AdaBoostClassifier was fitted with feature names
+  warnings.warn(

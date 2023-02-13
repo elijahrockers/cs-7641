@@ -1,0 +1,54 @@
+/home/eli/anaconda3/envs/ml/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:679: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/eli/anaconda3/envs/ml/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:679: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+
+Architecture:  (10, 10)
+activation:  identity
+current loss computed with the loss function:  0.21127850223550051
+activation:  logistic
+current loss computed with the loss function:  0.18302232776947894
+activation:  tanh
+current loss computed with the loss function:  0.17034461245665294
+activation:  relu
+current loss computed with the loss function:  0.17122297323837238
+
+Architecture:  (10, 10, 10)
+activation:  identity
+current loss computed with the loss function:  0.21345944118585072
+activation:  logistic
+current loss computed with the loss function:  0.19000999798249732
+activation:  tanh
+current loss computed with the loss function:  0.16808576730416874
+activation:  relu
+current loss computed with the loss function:  0.1728530491044487
+
+Architecture:  (10, 10, 10, 10)
+activation:  identity
+current loss computed with the loss function:  0.2131166907349829
+activation:  logistic
+current loss computed with the loss function:  0.19801464046893932
+activation:  tanh
+current loss computed with the loss function:  0.17247063099521617
+activation:  relu
+current loss computed with the loss function:  0.17580542139255767
+
+Architecture:  (1000, 10)
+activation:  identity
+current loss computed with the loss function:  0.21391389255498622
+activation:  logistic
+current loss computed with the loss function:  0.17845384784848867
+activation:  tanh
+current loss computed with the loss function:  0.18136801246681303
+activation:  relu
+current loss computed with the loss function:  0.09035892406191413
+
+Architecture:  (500, 500, 10)
+activation:  identity
+current loss computed with the loss function:  0.21896085107940164
+activation:  logistic
+current loss computed with the loss function:  0.062178686435716765
+activation:  tanh
+current loss computed with the loss function:  0.03919162036827047
+activation:  relu
+current loss computed with the loss function:  0.048317348012564904
